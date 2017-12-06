@@ -1,0 +1,11 @@
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\bin\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.deps.json
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\bin\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.runtimeconfig.json
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\bin\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.runtimeconfig.dev.json
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\bin\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.dll
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\obj\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.csprojResolveAssemblyReference.cache
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\obj\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\obj\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.AssemblyInfoInputs.cache
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\obj\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.AssemblyInfo.cs
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\bin\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.pdb
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\obj\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.dll
+C:\Users\Alexander Holmberg\Desktop\Inlämning1\SchoolProjects\Inlämning1AlexanderHolmberg\Inlämning1AlexanderHolmberg\obj\Debug\netcoreapp2.0\Inlämning1AlexanderHolmberg.pdb
